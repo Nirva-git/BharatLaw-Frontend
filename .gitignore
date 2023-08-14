@@ -1,0 +1,3 @@
+#Ignoring vscode and vs
+.vs
+.vscode
